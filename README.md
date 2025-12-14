@@ -14,6 +14,7 @@ This project follows modern software engineering workflows, including **JWT auth
 
 - **Backend (Render):**  
   REST API deployed on Render
+  https://sweet-shop-backend-ozl3.onrender.com
 
 ---
 
