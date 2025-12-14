@@ -1,0 +1,71 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+/* ✅ Sweet card background */
+.card.sweet-card {
+  background-color: #f6d6e8; /* light pink */
+  transition: all 0.25s ease;
+}
+
+/* hover effect */
+.card.sweet-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+}
+
+.btn {
+  border-radius: 8px;
+}
+
+/* Footer */
+.footer {
+  background-color: #ffffff;
+  border-top: 1px solid #eaeaea;
+}
+
+.footer span {
+  font-size: 14px;
+}
+/* ===== Footer ===== */
+
+.footer {
+  background-color: #ffffff;
+  border-top: 1px solid #eaeaea;
+}
+
+.footer-title {
+  font-weight: 600;
+  margin-bottom: 10px;
+}
+
+.footer-text {
+  font-size: 14px;
+  color: #6c757d;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-links li {
+  font-size: 14px;
+  color: #6c757d;
+  margin-bottom: 6px;
+  cursor: pointer;
+}
+
+.footer-links li:hover {
+  color: #000;
+}
+
+.footer-bottom {
+  color: #6c757d;
+  font-size: 13px;
+}
