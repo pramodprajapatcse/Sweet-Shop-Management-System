@@ -129,7 +129,7 @@ This project follows **TDD principles**, especially for backend logic:
 
 ---
 
-## 🤖 My AI Usage (Mandatory Section)
+## 🤖 My AI Usage 
 
 ### AI Tools Used
 - **ChatGPT (OpenAI)**
@@ -225,7 +225,17 @@ Screenshots of the following features are included:
 * Admin Panel (Add / Update / Delete Sweets)
 * Sweet Purchase Flow
 
-*(Add screenshots here)*
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/79baa8d1-27d3-4a0b-a4d5-af7580a4b4a9" />,
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/8fa38495-a38a-4777-b343-a9721b0d6d6c" />,
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22dcc79c-1b1d-4901-9e7b-9c37aef5b86b" />,
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/35faea0c-0407-4760-bba4-34c91d793e33" />,
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b9c3b99c-c889-4eb1-ba3d-24e974736811" />
+
+
+
+
+
+
 
 ---
 
