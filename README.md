@@ -180,7 +180,7 @@ BASE_URL=backend_base_url
 
 ### 1️⃣ Clone the Repository
 ````
-```bash
+
 git clone https://github.com/pramodprajapatcse/Sweet-Shop-Management-System.git
 cd Sweet-Shop-Management-System
 ````
